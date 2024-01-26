@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "Flutter (release mode)",
+            "program": "lib/main.dart",
+            "cwd": "web_app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "Flutter",
+            "program": "lib/main.dart",
+            "cwd": "web_app",
+            "request": "launch",
+            "type": "dart"
+        }
+    ]
+}
